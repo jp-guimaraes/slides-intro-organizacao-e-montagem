@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Introdução - Organização e Montagem de Computadores</title>
+    <link>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/</link>
+    <description>Recent content in Homes on Introdução - Organização e Montagem de Computadores</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/01_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/01_intro/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;foi-notícia&#34;&gt;Foi notícia&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://s2.glbimg.com/UnQ0ROmNYD83dMfqMOoHSCiBcSU=/0x0:1600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/4/6/keoDZ3TLWjonvwrvdehA/divulgacaowpp.png&#34; alt=&#34;Foo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.techtudo.com.br/noticias/2023/03/whatsapp-ganha-um-novo-app-para-windows-com-melhorias-em-ligacoes-edapps.ghtml&#34;&gt;&lt;small&gt;“WhatsApp ganha um novo app para Windows com melhorias em ligações &amp;ldquo;&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Por que isso foi notícia? Aonde tá a &lt;strong&gt;novidade&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;💸&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.oficinadanet.com.br/hardware/31432-montando-um-pc-para-jogar-cyberpunk-2077&#34;&gt;Preço de um PC capaz de rodar Cyberpunk 2077: R$ 4450,00&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.techtudo.com.br/listas/2020/09/preco-do-xbox-series-x-e-s-no-brasil-veja-cinco-destaques-do-lancamento.ghtml&#34;&gt;Preço do Xbox Series X: R$ 4999,00; Series S: R$ 2999,00&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.buscape.com.br/celular/conteudo/celular-barato-com-whatsapp&#34;&gt;Preço do celular mais barato que roda whatsapp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;afinal-o-que-é-um-computador&#34;&gt;Afinal, o que é um computador?&lt;/h1&gt;&#xA;&lt;p&gt;Um videogame é um computador? Ou um computador é um videogame?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/02_computador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/02_computador/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;computador&#34;&gt;Computador?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.egestor.com.br/wp-content/uploads/Calculando-o-valor-dos-impostos-no-custo-dos-produtos.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;pergunta&#34;&gt;Pergunta&lt;/h1&gt;&#xA;&lt;p&gt;Qual a diferença entre uma máquina de calcular e um computador?&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Definição de Tanenbaum:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;(voltaremos a esta definição)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Definição do dicionário de Oxford:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;o que computa; calculador, calculista.&lt;/li&gt;&#xA;&lt;li&gt;(no contexto de informática)&#xA;máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Alan Touring&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/03_hardware-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/03_hardware-software/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;hardware-x-software&#34;&gt;Hardware x Software&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://static.todamateria.com.br/upload/ha/rd/hardware-e-software-og.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sistema-computacional&#34;&gt;Sistema Computacional&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hardware&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Software&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Pessoas&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;(Mais uma vez) voltando a definição de de Tanenbaum:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blogdetiblog.files.wordpress.com/2014/09/processamento-dados-computador.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;componentes-básicos-de-um-computador&#34;&gt;Componentes básicos de um computador&lt;/h3&gt;&#xA;&lt;p&gt;Computador: Dispositivo &lt;strong&gt;modular&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dispositivos de entrada/saída&lt;/p&gt;&#xA;&lt;p&gt;Processamento&lt;/p&gt;&#xA;&lt;p&gt;Memória&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jp-guimaraes/slides-introducao-informatica/main/images/pc-diagrama.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/09_dicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jp-guimaraes.github.io/slides-intro-organizacao-e-montagem/home/09_dicas/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;dicas-culturais&#34;&gt;Dicas culturais&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jp-guimaraes.github.io/blog/dicas/&#34;&gt;Dicas de livros e séries para ver em casa&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
+    </item>
+  </channel>
+</rss>
